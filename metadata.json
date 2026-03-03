@@ -1,0 +1,5 @@
+{
+  "name": "GeoSynth Pro",
+  "description": "Advanced Space Harness Routing & Compliance Digital Twin. Features 3D A* routing, ECSS/NASA compliance checking, and thermal/EMC field visualization.",
+  "requestFramePermissions": []
+}
